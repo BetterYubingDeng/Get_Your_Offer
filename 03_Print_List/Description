@@ -16,3 +16,5 @@ public:
         
     }
 };
+
+直接用一个ArrayList存储即可
