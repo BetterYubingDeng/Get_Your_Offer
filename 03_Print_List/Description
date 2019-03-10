@@ -17,4 +17,4 @@ public:
     }
 };
 
-直接用一个ArrayList存储即可
+解题思路: 直接用一个ArrayList存储即可!
